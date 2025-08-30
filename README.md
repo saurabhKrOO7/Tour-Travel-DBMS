@@ -72,31 +72,10 @@ The database consists of **20+ normalized tables**, covering:
 ## 🛠️ Tech Stack
 
 **Backend:** PHP, MySQL, Apache (XAMPP/WAMP)
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
 **Database Tools:** phpMyAdmin, MySQL Workbench
-**Other Tools:** Git, Postman, Chart.js (for reports)
+**Other Tools:** Git, Chart.js (for reports)
 
 ---
-
-## 📂 Project Structure
-
-```
-Tour-Travel-DBMS/
-├── assets/          # CSS, JS, images
-├── config/          # Database & app configs
-├── database/        # SQL schema & sample data
-├── admin/           # Admin panel
-├── modules/         # Hotels, transport, packages, dining
-├── api/             # RESTful APIs
-├── index.php        # Homepage
-├── booking.php      # Booking interface
-├── profile.php      # User profiles
-└── README.md
-```
-
----
-
-## ⚡ Installation
 
 ### Prerequisites
 
