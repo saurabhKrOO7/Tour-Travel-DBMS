@@ -25,11 +25,6 @@
 
 ## 🚀 Features
 
-### 👤 User Management
-
-* Secure registration & login
-* Role-based access (Customer/Admin)
-* Booking history & profile management
 
 ### 🏨 Hotel & Dining
 
@@ -47,10 +42,9 @@
 * Pre-designed & customizable packages
 * Seasonal offers & group booking support
 
-### 💳 Payments
+### 💳 Fares
 
-* Secure payment gateway integration
-* Billing, invoicing, refunds & loyalty rewards
+* based on Hotel Type, Distance from railway station,
 
 ---
 
